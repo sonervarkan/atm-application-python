@@ -61,4 +61,4 @@ Follow the on-screen menu to interact with the ATM.
 
 #### License
 
-This project currently has no license. You may add one if needed.
+This project currently has no license.
